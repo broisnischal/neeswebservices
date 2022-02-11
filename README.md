@@ -35,21 +35,16 @@
 
 > .
 > <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+
 <img src='./gitsnake.gif' alt='git snake'>
 
 <img src='
 https://github-readme-stats.vercel.app/api?username=techneesofficial17&show_icons=true&theme=onedark
 '></img>
 
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=techneesofficial17&layout=compact'></img>
 
-<p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeswebservices&show_icons=true&locale=en&layout=compact" alt="neeswebservices" /> 
-<img src='
-https://github-readme-stats.vercel.app/api?username=techneesofficial17&show_icons=true&theme=onedark
-'></img>
-
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeswebservices&show_icons=true&locale=en&layout=compact" alt="neeswebservices" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/neesofficial"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="neesofficial" /></a></p><br><br>
