@@ -42,7 +42,14 @@ https://github-readme-stats.vercel.app/api?username=techneesofficial17&show_icon
 '></img>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeswebservices&show_icons=true&locale=en&layout=compact" alt="neeswebservices" /></p>
+<p>
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeswebservices&show_icons=true&locale=en&layout=compact" alt="neeswebservices" /> 
+<img src='
+https://github-readme-stats.vercel.app/api?username=techneesofficial17&show_icons=true&theme=onedark
+'></img>
+</div>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/neesofficial"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="neesofficial" /></a></p><br><br>
