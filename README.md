@@ -4,15 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeswebservices&label=Profile%20views&color=0e75b6&style=flat" alt="neeswebservices" /> </p>
 
 - 🔭 **I don't want you to know what I am working on !**
-- 
 - 👨‍💻 My Portfolio **[http://nees.eu5.net](http://nees.eu5.net)**
-- 
--  second portfolio **[neeswebservices](https://neeswebservices.netlify.app)**
--  
+-  second portfolio **[neeswebservices](https://neeswebservices.netlify.app)** 
 - 💬 Ask me about **typescript, dart, cpp , python**
-- 
 - 📫 My contact email **officialneeschalyt@gmail.com**
-- 
 - ⚡ Fun fact **basically programmers don't have girlfriend but I do :)**
 
 ## Connect with me :
