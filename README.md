@@ -19,7 +19,7 @@
 <a href="https://www.youtube.com/channel/UCP013FdEq1ti7fz1y78v1eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nees web services" height="30" width="40" /></a>
 </p>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/neesofficial"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="180" alt="neesofficial" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/neesofficial"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  width="180" alt="neesofficial" /></a></p>
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Aofficialneeschalyt%40gmail.com)](mailto:officialneeschalyt@gmail.com)
 [![Twitter: neeswebservices](https://img.shields.io/twitter/follow/neeswebservices?style=social)](https://twitter.com/neeswebservices)
@@ -32,7 +32,7 @@
 <div align="left">
  
 ``` js
-const stebs = {
+const nees = {
     personal: {
         fullName: 'Neeschal Dahal',
         birthDate: '2004-03-17',
@@ -42,6 +42,8 @@ const stebs = {
             'Consistency is key to victory.',
             'Tomorrow doesnt exists !',
         ],
+        education: "Completed High School",
+        age: 17
     },
     technical: {
         technologies: {
@@ -54,7 +56,14 @@ const stebs = {
                 Javascript: ['Node.js', 'Express'],
                 Python : ['django']
             },
-            architecture: ['Single Page Applications', 'Feature First'],
+            appdevelopment: ['flutter', 'react-native'],
+            dest-application: ['python', 'electron', 'tauri', 'C#'],
+            game-dev : {
+                engine: ['unity', 'unreal'],
+                language: ['c#', 'python']
+            },
+            learning: ['web3', 'bad-usb', 'injection'],
+            company: ['RONT', 'neeswebservices']
         },
     }
 }
