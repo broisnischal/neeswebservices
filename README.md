@@ -5,7 +5,7 @@
 - 🔭 **I don't want you to know what I am working on !**
 - 👨‍💻 My Portfolio **[http://nees.eu5.net](http://nees.eu5.net)**
 -  second portfolio **[neeswebservices](https://neeswebservices.netlify.app)** 
-- 💬 Ask me about **typescript, dart, cpp , python**
+- 💬 Ask me about **typescript, dart, cpp , python , javascript, php, c#**
 - 📫 My contact email **officialneeschalyt@gmail.com**
 - ⚡ Fun fact **basically programmers don't have girlfriend but I do :)**
 - [blog](https://dev.to/neeswebservices) - MY blogs
