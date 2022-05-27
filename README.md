@@ -48,7 +48,7 @@ const nees = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React','sveltejs', 'vite', 'Redux', 'Jest'],
+                Javascript: [ 'Next JS', 'Vanilla JS', 'React' ,'sveltejs', 'vite', 'Redux', 'Jest'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['sass', 'styled-components', 'Bootstrap'],
             },
@@ -57,7 +57,7 @@ const nees = {
                 Python : ['django']
             },
             appdevelopment: ['flutter', 'react-native'],
-            dest-application: ['python', 'electron', 'tauri', 'C#'],
+            destop-application: ['python', 'electron', 'tauri', 'C#'],
             game-dev : {
                 engine: ['unity', 'unreal'],
                 language: ['c#', 'python']
