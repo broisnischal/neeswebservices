@@ -18,6 +18,5 @@
 <a href="https://instagram.com/neeswebservices" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_nees_official" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nees web services" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nees web services" height="30" width="40" /></a>
 </p>
-<img width='200px' src='./gitsnake.gif' alt='git snake'>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/neesofficial"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="neesofficial" /></a></p><br><br>
