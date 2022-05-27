@@ -8,7 +8,7 @@
 - 💬 Ask me about **typescript, dart, cpp , python , javascript, php, c#**
 - 📫 My contact email **officialneeschalyt@gmail.com**
 - ⚡ Fun fact **basically programmers don't have girlfriend but I do :)**
-- [blog](https://dev.to/neeswebservices) - MY blogs
+- [blog](https://dev.to/neeswebservices) - MY Coding blogs
 ## Connect with me :
 <p align="center">
 <a href="https://codepen.io/neeschal2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="neeschal2004" height="30" width="40" /></a>
