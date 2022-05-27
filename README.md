@@ -25,3 +25,40 @@
 [![Twitter: neeswebservices](https://img.shields.io/twitter/follow/neeswebservices?style=social)](https://twitter.com/neeswebservices)
 [![Linkedin: techneesofficial17](https://img.shields.io/badge/-techneesofficial17-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/techneesofficial17/)](https://www.linkedin.com/in/techneesofficial17/)
 [![GitHub: neeswebservices](https://img.shields.io/github/followers/neeswebservices?label=follow&style=social)](https://github.com/neeswebservices)
+
+
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const stebs = {
+    personal: {
+        fullName: 'Neeschal Dahal',
+        birthDate: '2004-03-17',
+        pronouns: 'he' | 'him',
+        interests: ['music', 'games', 'language learning', 'movies', 'editing'],
+        motivation: [
+            'Consistency is key to victory.',
+            'Tomorrow doesnt exists !',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['Vanilla JS', 'React','sveltejs', 'vite', 'Redux', 'Jest'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['sass', 'styled-components', 'Bootstrap'],
+            },
+            backEnd: {
+                Javascript: ['Node.js', 'Express'],
+                Python : ['django']
+            },
+            architecture: ['Single Page Applications', 'Feature First'],
+        },
+    }
+}
+```
+  </div>
+</details>
+
