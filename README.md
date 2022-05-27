@@ -28,7 +28,7 @@
 
 
 <details>
-  # <summary> More about me</summary>
+  <summary> <h2>More about Me : </h2></summary>
 <div align="left">
  
 ``` js
