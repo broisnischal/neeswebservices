@@ -16,7 +16,7 @@
 <a href="https://twitter.com/neeswebservices" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neesofficial" height="30" width="40" /></a>
 <a href="https://fb.com/techneesofficial17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techneesofficial17" height="30" width="40" /></a>
 <a href="https://instagram.com/neeswebservices" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_nees_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nees web services" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nees web services" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCP013FdEq1ti7fz1y78v1eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nees web services" height="30" width="40" /></a>
 </p>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/neesofficial"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="neesofficial" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/neesofficial"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="180" alt="neesofficial" /></a></p><br><br>
