@@ -7,7 +7,8 @@
 - ⚡ Fun fact **basically programmers don't have girlfriend but I do :)**
 - [Dev blog](https://dev.to/neeswebservices) - MY Coding blogs
 - Itch profile [ITCH](https://neeswebservices.itch.io/)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <details>
   <summary> <h2>More about Me : </h2></summary>
