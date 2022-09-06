@@ -6,14 +6,12 @@
 ## MY MAJOR - JAVASCRIPT !
 
 - 🔭 **I don't want you to know what I am working on , I am C#,python game developer !!**
-- 😎 Portfolio 2021 **[neeswebservices](https://neeswebservices.netlify.app)** 
-- 😶 Mywebservices **[neeswebservices](https://nees-web-services.business.site)**
-- 👨‍💻 My Portfolio 2020 **[http://nees.eu5.net](http://nees.eu5.net)**
 - 💬 Ask me about **typescript, dart, cpp , python , javascript, php, c#**
-- 📫 My contact email **officialneeschalyt@gmail.com**
+- 📫 My contact email **neeswebservice@gmail.com**
 - ⚡ Fun fact **basically programmers don't have girlfriend but I do :)**
-- [blog](https://dev.to/neeswebservices) - MY Coding blogs
-- 
+- [Dev blog](https://dev.to/neeswebservices) - MY Coding blogs
+
+
 ## Connect with me :
 <p align="center">
 <a href="https://codepen.io/neeschal2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="neeschal2004" height="30" width="40" /></a>
