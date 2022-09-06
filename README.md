@@ -2,7 +2,7 @@
 > Tech Hunter from Nepal , who is learning App Development, Web development, Hacking, Game Development and so on. - I am firefly.Call me nees your own friend !!  Admin AT **[RONT](https://www.facebook.com/routineofnepaltechnology)** - Do like share follow the page.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeswebservices&label=Profile%20views&color=0e75b6&style=flat" alt="neeswebservices" /> </p>
 
-## > [ITCH](https://neeswebservices.itch.io/)
+###  [ITCH](https://neeswebservices.itch.io/)
 ## MY MAJOR - JAVASCRIPT !
 
 - 🔭 **I don't want you to know what I am working on , I am C#,python game developer !!**
@@ -12,7 +12,7 @@
 - [Dev blog](https://dev.to/neeswebservices) - MY Coding blogs
 
 
-## Connect with me :
+### Connect with me :
 <p align="center">
 <a href="https://codepen.io/neeschal2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="neeschal2004" height="30" width="40" /></a>
 <a href="https://twitter.com/neeswebservices" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neesofficial" height="30" width="40" /></a>
@@ -33,12 +33,6 @@
 
 ## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-## 😂 Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/neesofficial) 
-
 
 <details>
   <summary> <h2>More about Me : </h2></summary>
