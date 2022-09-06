@@ -2,20 +2,15 @@
 > Tech Hunter from Nepal , who is learning App Development, Web development, Hacking, Game Development and so on. - I am firefly.Call me nees your own friend !!  Admin AT **[RONT](https://www.facebook.com/routineofnepaltechnology)** - Do like share follow the page.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeswebservices&label=Profile%20views&color=0e75b6&style=flat" alt="neeswebservices" /> </p>
 
-###  [ITCH](https://neeswebservices.itch.io/)
-## MY MAJOR - JAVASCRIPT !
-
 - 🔭 **I don't want you to know what I am working on , I am C#,python game developer !!**
 - 💬 Ask me about **typescript, dart, cpp , python , javascript, php, c#**
 - 📫 My contact email **info@nischal-dahal.com.np**
 - ⚡ Fun fact **basically programmers don't have girlfriend but I do :)**
 - [Dev blog](https://dev.to/neeswebservices) - MY Coding blogs
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neeswebservices&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=neeswebservices&theme=dark&hide_border=false)
+##  [ITCH](https://neeswebservices.itch.io/)
 
-## ✍️ Quote
+|| ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <details>
