@@ -3,9 +3,9 @@
 
 - 💬 Ask me about **.ts,dart,.py,.js,.php,c#**
 - 📨 **info@nischal-dahal.com.np**
-- ⚡ Fun fact **basically programmers don't have girlfriend but I do :)**
-- [Blogs](https://dev.to/neeswebservices)
-- 🚀 [ITCH](https://neeswebservices.itch.io/)
+- Fun fact ⚡ **basically programmers don't have girlfriend but I do :)**
+-  🚀 [ITCH](https://neeswebservices.itch.io/) | 📝 [BLOGS](https://dev.to/neeswebservices)
+
 <details>
   <summary> <h2>More about Me : </h2></summary>
 <div align="left">
