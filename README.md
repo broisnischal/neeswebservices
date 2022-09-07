@@ -10,7 +10,6 @@
 <details>
   <summary> <h2>More about Me : </h2></summary>
 <div align="left">
-  
 ``` js
 const nees = {
     personal: {
@@ -30,21 +29,21 @@ const nees = {
             frontEnd: {
                 Javascript: [ 'Next JS', 'Vanilla JS', 'React' ,'sveltejs', 'vite', 'Redux', 'Jest'],
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'styled-components', 'Bootstrap'],
+                CSS: ['sass', 'styled-components', 'tailwind'],
             },
             backEnd: {
-                Javascript: ['Node.js', 'Express'],
-                Python : ['django']
+                Javascript: ['Node.js', 'Express', 'Nuxt js'],
+                Python : ['django', 'fastapi']
             },
             appdevelopment: ['flutter', 'react-native'],
-            destop-application: ['python', 'electron', 'tauri', 'C#'],
+            destop-application: ['electron', 'python', 'tauri', 'C#'],
             game-dev : {
                 engine: ['unity', 'unreal'],
                 language: ['c#', 'python']
             },
             learning: ['web3', 'bad-usb', 'injection'],
             company: ['RONT', 'neeswebservices'],
-            editing: ["premier pro", "after effect", "photoshop", "]
+            editing: ["premier pro", "after effect", "photoshop", "blender"]
         },
     }
 }
