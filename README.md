@@ -1,7 +1,7 @@
-> Tech Hunter from Nepal , who is learning App Development, Web development, Hacking, Game Development and so on. - I am firefly.Call me nees your own friend !!  Admin AT **[RONT](https://www.facebook.com/routineofnepaltechnology)** - Do like share follow the page.
+> Tech Hunter from Nepal ,who is learning App Development, Web development, Hacking, Game Development and so on. - I am firefly.Call me nees your own friend !!  Admin AT **[RONT](https://www.facebook.com/routineofnepaltechnology)** - Do like share follow the page.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeswebservices&label=Profile%20views&color=0e75b6&style=flat" alt="neeswebservices" /> </p>
 
-- 💬 Ask me about ** .ts, dart, cpp , .py , .js, .php, c#**
+- 💬 Ask me about **.ts,dart,.py,.js,.php,c#**
 - 📫 **info@nischal-dahal.com.np**
 - ⚡ Fun fact **basically programmers don't have girlfriend but I do :)**
 - [Dev blog](https://dev.to/neeswebservices) - My daily blogs
