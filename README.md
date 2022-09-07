@@ -2,10 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeswebservices&label=Profile%20views&color=0e75b6&style=flat" alt="neeswebservices" /> </p>
 
 - 💬 Ask me about **.ts,dart,.py,.js,.php,c#**
-- 📫 **info@nischal-dahal.com.np**
+- 📨 **info@nischal-dahal.com.np**
 - ⚡ Fun fact **basically programmers don't have girlfriend but I do :)**
-- [Dev blog](https://dev.to/neeswebservices) - My daily blogs
-- Itch profile [ITCH](https://neeswebservices.itch.io/)
+- [Blogs](https://dev.to/neeswebservices)
+- 🚀 [ITCH](https://neeswebservices.itch.io/)
 <details>
   <summary> <h2>More about Me : </h2></summary>
 <div align="left">
