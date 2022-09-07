@@ -11,8 +11,8 @@
   <summary> <h2>More about Me : </h2></summary>
 <div align="left">
   
-``` js
-const nees = {
+``` json
+{
     personal: {
         fullName: 'Nischal Dahal',
         birthDate: '2004-03-17',
