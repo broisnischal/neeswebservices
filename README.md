@@ -7,6 +7,8 @@
 - Fun fact ⚡ **basically programmers don't have girlfriend but I do :)**
 -  🚀 [ITCH](https://neeswebservices.itch.io/) | 📝 [BLOGS](https://dev.to/neeswebservices)
 
+All the repos that you see in my profile is not copied and it's built from scratch by NWS Inc.
+
 <details>
   <summary> <h2>More about Me : </h2></summary>
 <div align="left">
