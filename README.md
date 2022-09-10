@@ -1,7 +1,7 @@
 > Tech Hunter from Nepal. A creative 0 trying to become !0. Admin AT **[RONT](https://www.facebook.com/routineofnepaltechnology)** - Do like share follow the page.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeswebservices&label=Profile%20views&color=0e75b6&style=flat" alt="neeswebservices" /> </p>
 
-
+- AGE - 16 Years old Interest - 3d Modling 
 - 💬 Ask me about **.ts,dart,.py,.js,.php,c#**
 - 📨 **info@nischal-dahal.com.np**
 - Fun fact ⚡ **basically programmers don't have girlfriend but I do :)**
