@@ -1,13 +1,14 @@
-> Tech Hunter from Nepal. A creative 0 trying to become !0. Admin AT **[RONT](https://www.facebook.com/routineofnepaltechnology)** - Do like share follow the page.
+> Tech Hunter from Nepal and A creative 0 trying to become !0. Admin AT **[RONT](https://www.facebook.com/routineofnepaltechnology)** - Do like share and follow the page.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeswebservices&label=Profile%20views&color=0e75b6&style=flat" alt="neeswebservices" /> </p>
 
-- AGE - 16 Years old Interest - 3d Modling 
+- I am `16 Years` old currently completed `+2`.
+- Check out my personal blog website [BLOGS](https://blogs.nischal-dahal.com.np/)
 - 💬 Ask me about **.ts,dart,.py,.js,.php,c#**
 - 📨 **info@nischal-dahal.com.np**
 - Fun fact ⚡ **basically programmers don't have girlfriend but I do :)**
--  🚀 [ITCH](https://neeswebservices.itch.io/) | 📝 [BLOGS](https://dev.to/neeswebservices)
+-  🚀 [ITCH](https://neeswebservices.itch.io/) | 📝 [DEV](https://dev.to/neeswebservices)
 
-#####  `All the repos that you see in my profile is not copied and it's built from scratch by NWS Inc. If you are getting issue while using any of my repos feel free to contact me.`
+> ###  All the repos that you see in my github is not copied and it's built from scratch by neeswebservices Inc. If you are getting issue while using any of my repos feel free to contact me.
 
 <details>
   <summary> <h2>More about Me : </h2></summary>
