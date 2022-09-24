@@ -7,6 +7,7 @@
 - 📨 **info@nischal-dahal.com.np**
 - Fun fact ⚡ **basically programmers don't have girlfriend but I do :)**
 -  🚀 [ITCH](https://neeswebservices.itch.io/) | 📝 [DEV](https://dev.to/neeswebservices)
+![](https://hit.yhype.me/github/profile?user_id=98168009)
 
 > ###  All the repos that you see in my github is not copied and it's built from scratch by neeswebservices Inc. If you are getting issue while using any of my repos feel free to contact me.
 
