@@ -1,2 +1,6 @@
+<br/>
+**Noob Stack Developer !!** 
 
-- [x] **Noob Stack Developer, with a relative years of experiences !!**
+- [x] Creating Life
+- [ ] Generate Happiness
+- [ ] Life Forbidden  
