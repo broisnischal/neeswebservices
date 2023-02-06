@@ -1,7 +1,7 @@
-<br/>
-
 **Noob Stack Developer !!** 
 
 - [x] Creating Life
 - [ ] Generate Happiness
-- [ ] Life Forbidden  
+- [ ] Model a Character
+- [ ] Add human feelings  
+<br/>
